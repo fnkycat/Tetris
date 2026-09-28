@@ -9,4 +9,4 @@
 pip install pygame
 ```
 
-![tetris](images/main.png)
+![tetris](main.png)
